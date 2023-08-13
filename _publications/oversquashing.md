@@ -2,10 +2,9 @@
 title: "Understanding Oversquashing in GNNs Through the Lens of Effective Resistance"
 collection: publications
 permalink: /publication/oversquashing
-date: 2023-07-23
-venue: 'International Conference on Machine Learning'
-paperurl: [Arxiv](https://arxiv.org/abs/2302.06835)
-# citation:  [Bibtex](http://)
+date: 2023-07-24
+venue: 'ICML 2023'
+paperurl: 'https://arxiv.org/abs/2302.06835'
 ---
 # This paper is about the number 1. The number 2 is left for future work.
 
