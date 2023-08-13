@@ -13,7 +13,7 @@ name                     : &name "Mitchell Black"
 description              : &description "PhD Student in Computer Science at Oregon State University"
 url                      : https://mitchell.black # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "blackmit.github.io"
+repository               : "mitchell.black"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
